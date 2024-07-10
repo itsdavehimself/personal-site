@@ -2,7 +2,9 @@ import styles from './App.module.scss';
 
 function App() {
   return (
-    <div className={styles.something}>THIS IS SUPPOSED TO BE SOMETHING.</div>
+    <div className={styles.something}>
+      OH, HEY. THIS IS UNEXPECTED. CHECK BACK SOMETIME.
+    </div>
   );
 }
 
